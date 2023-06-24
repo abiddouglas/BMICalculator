@@ -1,0 +1,17 @@
+{
+  "name": "bmi_assignment",
+  "version": "1.0.0",
+  "description": "BMI assignment for Full Stack Web Dev Class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "Abidali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22",
+    "pug": "^3.0.2"
+  }
+}
